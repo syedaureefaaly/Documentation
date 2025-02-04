@@ -1,0 +1,6 @@
+Test Case ID, Test Parameter, Status, Remarks
+TC001, Mobile Performance, Pass, Performance is satisfactory
+TC002, SEO Performance, Pass, SEO implementation is good
+TC003, Accessibility, Pass, Accessibility is properly implemented
+TC004, Page Load Speed, Pass, Page load speed is optimized
+TC005, Image Optimization, Needs Improvement, Image sizes need optimization for better performance
